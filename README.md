@@ -1,4 +1,4 @@
-## Hello, I'm [Ujjval Patel!](https://www.linkedin.com/in/patelujjval/) 👋
+## Hello, I'm [Ujjval Patel!](https://ujjval-patel.github.io/Ujjval-Patel/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujjval-Patel &label=Views&color=brightgreen&style=plastic" alt="Ujjval-Patel" /> </p>
 
