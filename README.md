@@ -23,7 +23,7 @@
 - 📫 How to reach me: [Instagram - @\patelujjval2206](https://www.instagram.com/patelujjval2206/)
 - 😄 Pronouns: He/His
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-1801-orange)](https://leetcode.com/Ujjval2206/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Leetcode](https://img.shields.io/badge/Leetcode-1789-orange)](https://leetcode.com/Ujjval2206/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 **Languages and Tools:**  
