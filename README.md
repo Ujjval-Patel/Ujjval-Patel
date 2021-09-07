@@ -9,7 +9,7 @@
   <img align="left" alt="Ujjval's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/patelujjval2206/">
-  <img align="left" alt="Ujjval's Instagram" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" />
+  <img align="left" alt="Ujjval's Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 </a>
 
 <br/>
