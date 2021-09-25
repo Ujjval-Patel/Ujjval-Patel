@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ujjval-Patel &label=Views&color=brightgreen&style=plastic" alt="Ujjval-Patel" /> </p>
 
 <a href="https://www.linkedin.com/in/patelujjval/">
-  <img align="left" alt="Ujjval's Linkedin" width="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left" alt="Ujjval's Linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://github.com/Ujjval-Patel/">
   <img align="left" alt="Ujjval's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
