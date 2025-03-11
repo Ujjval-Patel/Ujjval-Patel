@@ -17,7 +17,6 @@
 - :briefcase: I'am currently working as a UI developer at Teuvonet, a ASU lab. 
 - 🌱 These days during my free time I like to learn more about Web Development. 
 - ❤️ I enjoy solving Data Structures and Algorthmic Problems
-- 📫 How to reach me: [Instagram - @\patelujjval2206](https://www.instagram.com/patelujjval2206/)
 - 😄 Pronouns: He/His
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-1852-orange)](https://leetcode.com/Ujjval2206/)&nbsp;&nbsp;&nbsp;&nbsp;
